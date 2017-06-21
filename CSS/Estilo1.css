@@ -1,0 +1,27 @@
+#especial{
+	color: rgba(0,0,200,0.8); /*rgba es para el color, primero rojo luego verde y al ultimo azul, el ultimo valor es para la transparencia. Va de 0 a de 255*/
+	background-color: #884466; 
+}
+.verde{
+	color: #00FF00; /*Valores hexadecimales*/
+	background-color: #564921;
+}
+h1{
+	color: rgb(255,0,0); /*Tener cuidado porque si quitamos las anteriores etquetas todos los h1 se pondran de color rojo*/
+	border-color: #fdd835; /*color de la linea*/
+	border-style: dashed; /*Estilo de la linea*/
+	border-width: 5px; /*Grosor de la linea*/
+	border-left-color: blue;
+	border-right-color: red;
+	border-top-color: green;
+	border-bottom: none; 
+	/*Si ponemos un color de fondo afecta a las anteriores poque igual son h1*/
+
+}
+body{
+	/*background: url(imagenescss/images.jpg);
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/ /*Cubre toda la pantalla*/
+	/*background: #124578*/
+	/*Color de fondo de la pantalla*/
+}
