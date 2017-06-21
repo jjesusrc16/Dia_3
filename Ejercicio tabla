@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title></title>
+	<meta charset="utf-8">
+</head>
+<body>
+<img src="imagenes/pokemon.png">
+<table border="1">
+	<tr> 
+			<th>Pokemon</th>
+			<th>Nombre</th>
+			<th>Tipo</th>
+			<th>Evolucion</th>
+	</tr>
+
+
+</table>
+</body>
+</html>
